@@ -1,0 +1,8 @@
+The goal of this system is precise light detection using a photoresistor sensor. The sensor is activated by simply pressing a touch switch, and the values it detects are dynamically displayed in the command window. This system not only allows for easy monitoring of light conditions but also contributes to efficient automation, such as lighting control or environmental monitoring in various applications.
+
+Required components: 
+Photoresistor – a passive electronic component that changes its resistance in response to the amount of light falling on it. This sensor is utilized in various applications for light detection and in control systems that automatically adjust to changes in lighting. The photoresistor is particularly useful in projects such as lighting automation, environmental monitoring systems, and smart devices, where precise monitoring of light conditions plays a key role in enhancing efficiency and user comfort.
+
+Touch Switch – an electronic device that allows for the activation and deactivation of circuits with a simple touch. This device provides an intuitive way to control various electronic systems, including lighting, enhancing user comfort and the aesthetics of the project. It is often used in modern applications due to its simplicity and easy integration.
+
+PCF8591 – an integrated chip that enables analog-to-digital (AD) and digital-to-analog (DA) signal conversion. This chip is useful in projects that require the management and processing of analog signals, such as sensors and control devices. With its ability to convert analog data to digital and vice versa, the PCF8591 plays a key role in the integration of various components in electronic systems.
